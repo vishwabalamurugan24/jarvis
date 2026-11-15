@@ -1,0 +1,8 @@
+node_modules/
+.env
+dist/
+build/
+.dart_tool/
+.flutter-plugins
+*.log
+.DS_Store
